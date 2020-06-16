@@ -14,7 +14,6 @@ int* _returnAddress1(int IValue)
 
 int& _returnAddress2(int IValue)
 {
-	//IValue = 3;
 	return IValue;
 }
 
