@@ -141,6 +141,7 @@
   <ItemGroup>
     <ClCompile Include="CPhanSo.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="Source.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="CPhanSo.h" />
