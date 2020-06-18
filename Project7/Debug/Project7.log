@@ -1,0 +1,5 @@
+﻿  CLopCon.cpp
+C:\Users\NhatTuan-PC\Desktop\buoi 5\K08_Online\Project7\CLopCon.cpp(8,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\NhatTuan-PC\Desktop\buoi 5\K08_Online\Project7\CLopCon.cpp(37,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\NhatTuan-PC\Desktop\buoi 5\K08_Online\Project7\CLopCon.cpp(53,24): warning C4018: '<': signed/unsigned mismatch
+  Project7.vcxproj -> C:\Users\NhatTuan-PC\Desktop\buoi 5\K08_Online\Debug\Project7.exe
