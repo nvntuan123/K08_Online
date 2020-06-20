@@ -1,5 +1,5 @@
 ﻿  CMyArray.cpp
-C:\Users\NhatTuan-PC\Desktop\buoi-1-oop-in-cpp-on-tap-ktlt\Project4\CMyArray.cpp(16,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\NhatTuan-PC\Desktop\K08_Online\Project4\CMyArray.cpp(16,23): warning C4018: '<': signed/unsigned mismatch
   Source.cpp
   Generating Code...
-  Project4.vcxproj -> C:\Users\NhatTuan-PC\Desktop\buoi-1-oop-in-cpp-on-tap-ktlt\Debug\Project4.exe
+  Project4.vcxproj -> C:\Users\NhatTuan-PC\Desktop\K08_Online\Debug\Project4.exe

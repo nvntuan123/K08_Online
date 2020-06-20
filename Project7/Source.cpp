@@ -5,10 +5,10 @@ using namespace std;
 
 int main()
 {
-	CLopCon _CClass(5);
+	CLopCon _CClass(5); // int* a, int n.
 	_CClass.func();
 	//_CClass.~CLopCon();
-	CLopCon _CClass1(7);
+	CLopCon _CClass1(7); // int* a, int n.
 	_CClass1.xuatThongTin(); // 7 so 7
 	_CClass1 = _CClass;
 	_CClass1.xuatThongTin();

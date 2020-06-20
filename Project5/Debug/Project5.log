@@ -1,4 +1,7 @@
-﻿  main.cpp
-C:\Users\NhatTuan-PC\Desktop\buoi-1-oop-in-cpp-on-tap-ktlt\Project5\main.cpp(12): warning C4172: returning address of local variable or temporary: IValue
-C:\Users\NhatTuan-PC\Desktop\buoi-1-oop-in-cpp-on-tap-ktlt\Project5\main.cpp(18): warning C4172: returning address of local variable or temporary: IValue
-  Project5.vcxproj -> C:\Users\NhatTuan-PC\Desktop\buoi-1-oop-in-cpp-on-tap-ktlt\Debug\Project5.exe
+﻿  CPhanSo.cpp
+  main.cpp
+  Source.cpp
+  Generating Code...
+C:\Users\NhatTuan-PC\Desktop\K08_Online\Project5\main.cpp(18): warning C4172: returning address of local variable or temporary: IValue
+C:\Users\NhatTuan-PC\Desktop\K08_Online\Project5\main.cpp(12): warning C4172: returning address of local variable or temporary: IValue
+  Project5.vcxproj -> C:\Users\NhatTuan-PC\Desktop\K08_Online\Debug\Project5.exe
